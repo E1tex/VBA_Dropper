@@ -23,3 +23,6 @@ It can be utilized for various purposes, including penetration testing and Red T
 
 ## Disclaimer:
 This macro dropper script is provided as-is without any warranty. Use it responsibly and ensure compliance with legal and ethical standards. Users assume all risks associated with its usage. Obtain proper authorization before conducting any security assessments.
+
+## License:
+Licensed under the [MIT](https://opensource.org/licenses/MIT) License. Refer to the LICENSE file for detailed information.
